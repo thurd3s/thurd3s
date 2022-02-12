@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thurd3s
+- 👀 I’m interested in programming and developing something new
+- 🌱 I’m currently learning Python/JS and C++
+- 💞️ I’m looking to collaborate with start-up companies
+- 📫 How to reach me -> VK: thurd3s
